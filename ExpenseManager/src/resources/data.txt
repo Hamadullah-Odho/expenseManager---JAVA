@@ -1,0 +1,28 @@
+Id : 1
+Amount : 2500.0
+Category : Utilities
+Description : bought charger
+Date : 2025-07-19
+Time : 03:32
+
+Id : 2
+Amount : 2500.0
+Category : Groceries
+Description : bought choclates
+Date : 2025-07-19
+Time : 03:33
+
+Id : 3
+Amount : 4020.0
+Category : Internet / Phone bills
+Description : payed internet bill
+Date : 2025-07-19
+Time : 07:02
+
+Id : 5
+Amount : 2000.0
+Category : Utilities
+Description : bought charger for phone
+Date : 2025-07-19
+Time : 21:11
+
